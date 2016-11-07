@@ -23,7 +23,7 @@ El alumno será capaz de crear modelos de texto multilenguaje aplicables a grand
    * Tokenización (n-words, q-grams, skip-grams)  
    * Pesado de texto (TFIDF)  
    * Medidas de similitud  
-* Aprendizaje supervisado  
+* [Aprendizaje supervisado](http://ws.ingeotec.mx/~mgraffg/cursos/CIIA2016/03_aprendizaje_supervisado.slides.html)
    * Modelo general de aprendizaje; Entrenamiento, test, score (accuracy, recall, precision, f1)  
    * Máquinas de soporte vectorial (SVM)  
    * Programación genética (EvoDAG)  
