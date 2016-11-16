@@ -28,7 +28,7 @@ El alumno será capaz de crear modelos de texto multilenguaje aplicables a grand
    * Máquinas de soporte vectorial (SVM)  
    * Programación genética (EvoDAG)  
    * Distant supervision  
-* $\mu$TC  
+* [$\mu$TC](http://ws.ingeotec.mx/~mgraffg/cursos/CIIA2016/04_microTC.slides.html)
    * Pipeline de transformaciones  
    * Optimización de parámetros  
    * Clasificadores  
