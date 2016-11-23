@@ -33,7 +33,7 @@ El alumno será capaz de crear modelos de texto multilenguaje aplicables a grand
    * Optimización de parámetros  
    * Clasificadores  
    * Uso del $\mu$TC  
-* Aplicaciones  
+* [Aplicaciones ](http://ws.ingeotec.mx/~mgraffg/cursos/CIIA2016/05_aplicaciones.slides.html)
    * Análisis de sentimientos  
    * Determinación de autoría  
    * Clasificación de noticias  
