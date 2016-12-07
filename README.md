@@ -39,5 +39,5 @@ El alumno será capaz de crear modelos de texto multilenguaje aplicables a grand
    * Clasificación de noticias  
    * Spam  
    * Género y edad  
-* Conclusiones  
+* [Conclusiones](http://ws.ingeotec.mx/~mgraffg/cursos/CIIA2016/06_conclusiones.slides.html)
 
